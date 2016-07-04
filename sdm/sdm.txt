@@ -1,0 +1,7 @@
+"sdm"
+{
+	"base"		"sandbox"
+	"title"		"Squad Deathmatch"
+	"maps"		""
+	"menusystem" "1"
+}
